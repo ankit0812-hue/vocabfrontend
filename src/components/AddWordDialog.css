@@ -1,0 +1,7 @@
+.myInput .Mui-focused {
+  color: #4e0d3a !important;
+}
+
+.myInput .css-vensjo-MuiInputBase-root-MuiInput-root::after {
+  border-bottom-color: #4e0d3a !important;
+}
